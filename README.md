@@ -1,4 +1,4 @@
-# BatchTextFiles To AudioFiles Converter 
+# Batch Txt To Mp3 File Converter 
 
 *  This is a Node.js project used to convert a batch of text files(.txt) to audio files(.mp3,.wav).
 *  This is created mainly for converting novels to audio novels.
